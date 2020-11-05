@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my Introduction
 
-You can use the [editor on GitHub](https://github.com/FahadKhan5/Fahad-Khan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# فہد خان بلوچ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More information will be updated soon
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Profile Picture
+![Image](https://scontent.flhe2-2.fna.fbcdn.net/v/t1.0-9/90514474_589386708315881_2709257914253574144_o.jpg?_nc_cat=100&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHa1rFk1HWcXntMwReZS2Wsl2pQQDDDr-yXalBAMMOv7IsBClscSHyuHnUjEHtby_kzlfix6anWNNBP5Tb5hKHF&_nc_ohc=kCNAE4gwxXYAX-SymvT&_nc_ht=scontent.flhe2-2.fna&oh=36c59c296ffe06a815a713ec04ff0297&oe=5FC9E365)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FahadKhan5/Fahad-Khan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
